@@ -1,6 +1,7 @@
 # Kalkulator Golang (GO)
 coba golang
 
+download go di https://go.dev/
 
 langsung di terminal:
 
