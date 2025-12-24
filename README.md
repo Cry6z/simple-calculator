@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# kalkulator cli
+# kalkulator cli sederhana mantaps
 
 program GO pertama ku yoww!
 
