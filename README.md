@@ -1,7 +1,7 @@
 # Kalkulator Golang (GO)
 
-Jalankan operasi dasar langsung dari terminal:
+langsung di terminal:
 
 ```bash
-go run main.go <add|sub|mul|div> <angka1> <angka2>
+go run main.go <tambah|kurang|kali|bagi> <angka1> <angka2>
 ```
