@@ -1,4 +1,6 @@
 # Kalkulator Golang (GO)
+coba golang
+
 
 langsung di terminal:
 
