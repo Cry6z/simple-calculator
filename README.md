@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kalkulator cli
 
 program GO pertama ku yoww!
@@ -15,5 +16,5 @@ contoh:
 
 ```bash
 go run main.go tambah 10 7
+
 # Output: 10 + 7 = 17
-```
