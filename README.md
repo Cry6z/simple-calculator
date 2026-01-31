@@ -1,6 +1,6 @@
-# kalkulator cli sederhana mantaps
+# Kalkulator Golang
 
-program GO pertama ku yoww!
+program golang pertama ku yoww!
 
 ## jalankan
 
